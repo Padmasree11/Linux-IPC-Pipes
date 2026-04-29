@@ -22,6 +22,7 @@ Write the C Program using Linux Process API - pipe(), fifo()
 Testing the C Program for the desired output. 
 
 # PROGRAM:
+```
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -55,7 +56,7 @@ plt.xlabel("X")
 plt.ylabel("y")
 plt.legend()
 plt.show()
-
+```
 
 ## OUTPUT
 <img width="812" height="619" alt="Screenshot 2026-04-29 130331" src="https://github.com/user-attachments/assets/18a73817-5430-4d5d-8212-d0c22350cb86" />
