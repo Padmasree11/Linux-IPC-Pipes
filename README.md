@@ -62,15 +62,5 @@ plt.show()
 <img width="812" height="619" alt="Screenshot 2026-04-29 130331" src="https://github.com/user-attachments/assets/18a73817-5430-4d5d-8212-d0c22350cb86" />
 
 
-
-## C Program that illustrate communication between two process using named pipes using Linux API system calls
-
-
-
-
-
-## OUTPUT
-
-
 # RESULT:
 The program is executed successfully.
